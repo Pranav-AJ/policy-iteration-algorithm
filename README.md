@@ -89,7 +89,8 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 
 ## OUTPUT:
 ## optimal policy 
-![image](https://github.com/user-attachments/assets/4aeee14a-ab2c-470d-9954-54fb5e4dcf16)
+![image](https://github.com/user-attachments/assets/6ceab2e8-c499-4a61-9196-09ca9573c22b)
+
 
 
 
